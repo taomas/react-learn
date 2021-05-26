@@ -1,0 +1,23 @@
+{
+  "name": "react-learn",
+  "version": "1.0.0",
+  "description": "自己用来学习 react 的一个 git 仓库",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taomas/react-learn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taomas/react-learn/issues"
+  },
+  "homepage": "https://github.com/taomas/react-learn#readme"
+}
