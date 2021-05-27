@@ -1,10 +1,10 @@
 import React, { useState } from "react"
 import { useAppSelector, useAppDispatch } from "../../stores/hooks"
+import { incrementAsync } from "../../apis/couter"
 import {
   decrement,
   increment,
   incrementByAmount,
-  incrementAsync,
   incrementIfOdd,
   selectCount,
 } from "../../stores/counter/index"
